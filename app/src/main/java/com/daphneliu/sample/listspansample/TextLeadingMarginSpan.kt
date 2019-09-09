@@ -1,4 +1,4 @@
-package com.daphneliu.sample.bulletlistsample
+package com.daphneliu.sample.listspansample
 
 import android.graphics.Canvas
 import android.graphics.Paint

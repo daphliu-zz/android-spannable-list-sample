@@ -1,4 +1,4 @@
-package com.daphneliu.sample.bulletlistsample
+package com.daphneliu.sample.listspansample
 
 import android.os.Bundle
 import android.widget.TextView
@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
                 <li>Item 2</li>
                 <li>Item 3
                     <ol>
-                        <li>Nested item</li>
+                        <li>Nested item 1</li>
                         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                         Nulla et tellus eu magna facilisis eleifend. Vestibulum faucibus pulvinar tincidunt. 
                         Nullam non mauris nisi.</li>
@@ -33,11 +33,11 @@ class MainActivity : AppCompatActivity() {
                         <li>Nested item 1</li>
                         <li>Nested item 2
                             <ol>
-                                <li>Nested item</li>
-                                <li>Nested item</li>
+                                <li>Double nested item 1</li>
+                                <li>Double nested item 2</li>
                             </ol>
                         </li>
-                        <li>Nested item 2</li>
+                        <li>Nested item 3</li>
                     </ol>
                 </li>
                 <li>Item 6</li>

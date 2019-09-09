@@ -1,15 +1,13 @@
-package com.daphneliu.sample.bulletlistsample
+package com.daphneliu.sample.listspansample
 
 import android.text.*
 import android.text.Spanned.*
 import android.text.style.LeadingMarginSpan
-import com.daphneliu.sample.bulletlistsample.StringUtils.LI_TAG
-import com.daphneliu.sample.bulletlistsample.StringUtils.OL_TAG
-import com.daphneliu.sample.bulletlistsample.StringUtils.UL_TAG
+import com.daphneliu.sample.listspansample.StringUtils.LI_TAG
+import com.daphneliu.sample.listspansample.StringUtils.OL_TAG
+import com.daphneliu.sample.listspansample.StringUtils.UL_TAG
 import org.xml.sax.XMLReader
 import java.util.*
-import java.util.logging.Level
-import java.util.logging.Logger
 
 class ListTagHandler : Html.TagHandler {
 

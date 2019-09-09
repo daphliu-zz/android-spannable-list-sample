@@ -1,4 +1,4 @@
-package com.daphneliu.sample.bulletlistsample
+package com.daphneliu.sample.listspansample
 
 import android.text.SpannableString
 import android.text.Spanned

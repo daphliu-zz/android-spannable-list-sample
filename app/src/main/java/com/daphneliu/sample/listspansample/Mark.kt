@@ -1,4 +1,4 @@
-package com.daphneliu.sample.bulletlistsample
+package com.daphneliu.sample.listspansample
 
 /**
  * Interface for invisible spans that aren't used for styling.
